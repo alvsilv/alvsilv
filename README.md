@@ -9,6 +9,7 @@ Sou estudante do Senac Americana-Cursando Multimidia.
 
 ## 🚀 Minhas Skills
 
+<div align="center" style="display: inline_block">
 <code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="Photoshop" />
 <code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="Adobe Illustrator" />
 <code> <img src="https://skillicons.dev/icons?i=html" height="50" alt="Html" /></code>
@@ -17,6 +18,8 @@ Sou estudante do Senac Americana-Cursando Multimidia.
 <code><img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
 <img src="https://skillicons.dev/icons?i=github" height="50" alt="Github" />
 <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="Vs Code" />
+</div>
+
 ---
 
 ## ⭐ GitHub Stats
