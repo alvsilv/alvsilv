@@ -1,16 +1,24 @@
-## Hi there 👋
+## 💙 Olá, meu nome é <b>Álvaro!</b>
 
-<!--
-**alvsilv/alvsilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do Senac Americana-Cursando Multimidia.
 
-Here are some ideas to get you started:
+<p>🪐Olá, eu me chamo <b> Álvaro Silva!</b> Sou estudante de Multimídia e Teatro no Senac de Americana-Sp.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>💬 Tenho projetos em grupos onde meu grupo desenvolveu um cardápio fícticio. Fizemos no Figma! Seu projeto pode ser nosso também.</p>
+---
+
+## 🚀 Minhas Skills
+
+<code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="Photoshop" />
+<code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="Adobe Illustrator" />
+<code> <img src="https://skillicons.dev/icons?i=html" height="50" alt="Html" /></code>
+<code><img src="https://skillicons.dev/icons?i=css" height="50" alt="Css" />
+<code><img src="https://skillicons.dev/icons?i=aftereffects" height="50" alt="After Effects" />
+<code><img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="Github" />
+<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="Vs Code" />
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvsilv&show_icons=true&theme=graywhite)</code>
